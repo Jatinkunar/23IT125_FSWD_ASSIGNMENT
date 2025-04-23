@@ -1,0 +1,3 @@
+📁 Backup Started: 2025-04-22T12:00:00.123Z
+Copied: /source/file.txt → /backup/file.txt | 1024 bytes | 2025-04-22T12:00:01.456Z
+✅ Backup completed at: 2025-04-22T12:00:01.999Z
